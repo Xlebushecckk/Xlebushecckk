@@ -1,5 +1,1 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/Xlebushecckk" target="_blank">Xleb</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Beginner Java Developer</h3>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Xleb;I'm+a+beginner+java+developer" alt="Typing SVG" /></a>
